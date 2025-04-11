@@ -10,3 +10,4 @@ for i in range(5,-1,-1):
     time.sleep(1)
 
 print("Rocket was launched!")
+print("hello world")
