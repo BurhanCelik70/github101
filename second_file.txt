@@ -1,2 +1,3 @@
 My second file on GitHub
 Second file was loaded...
+New line was added.
